@@ -4,6 +4,9 @@ A periodical about best practices and advanced techniques in Objective-C.
 [raywenderlich](http://www.raywenderlich.com/)  
 Tutorials for iPhone/iOS Developer and Gamers  
 
+[NSHipster](http://nshipster.com)  
+NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly.  
+
 [Quality Coding](http://qualitycoding.org/)  
 Quality Coding for iOS Developers  
 
