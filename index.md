@@ -18,3 +18,6 @@ It's about TDD, unit testing, and creating bug free iOS code on iOS.
 
 [cocoa dev central](http://cocoadevcentral.com/)  
 Learn Cocoa.
+
+[破船之家](http://beyondvincent.com)  
+iOS 相关文章的一些中文翻译。  
