@@ -7,6 +7,9 @@ Tutorials for iPhone/iOS Developer and Gamers
 [NSHipster](http://nshipster.com)  
 NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly.  
 
+[Cocoa With Love](http://www.cocoawithlove.com)  
+虽然已经很久没有更新文章了，但里面都是些有内涵的干货。  
+
 [Quality Coding](http://qualitycoding.org/)  
 Quality Coding for iOS Developers  
 
