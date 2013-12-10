@@ -8,7 +8,10 @@ Tutorials for iPhone/iOS Developer and Gamers
 NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly.  
 
 [Cocoa With Love](http://www.cocoawithlove.com)  
-虽然已经很久没有更新文章了，但里面都是些有内涵的干货。  
+虽然已经很久没有更新文章了，但里面都是些有内涵的干货。 
+
+[Friday Q&A](http://www.mikeash.com/pyblog/)  
+Friday Q&A  
 
 [Luke's Homepage](http://geeklu.com/)  
 Luke's Homepage
