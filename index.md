@@ -37,4 +37,24 @@ iOS 相关文章的一些中文翻译。
 [ open source and commercial UI components for iOS and OS X.] (https://www.cocoacontrols.com/)
 
 里面总结好多实用的代码
+
+[Security Researcher ] (http://highaltitudehacks.com/security/ )
+
+讲iOS安全教程
+
+
+[All for Web and App Developers] (http://www.scoop.it/t/ios-developing )
+demo很多
+[Florian developer ] (http://floriankugler.com/) 
+
+里面有很多干货
+
+[iOS App Dev Libraries, Controls, Tutorials, Examples and Tools] (http://maniacdev.com/ )
+
+讲了好多库，教程，工具，demo
+
+
+[ios 或安卓用到的加密] (http://www.9ria.com/subject/algorithm.html)
+
+
  
