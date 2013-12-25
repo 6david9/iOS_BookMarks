@@ -39,3 +39,6 @@ Best Practices, tips, tricks, reusable code.
 
 [Matt Galloway](http://www.galloway.me.uk)  
 Matt Galloway
+
+[Prateek Gianchandani](http://highaltitudehacks.com/security/)  
+IOS Developer. Security Researcher. Wannabe Mountaineer.
