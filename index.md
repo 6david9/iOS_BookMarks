@@ -36,3 +36,6 @@ iOS 相关文章的一些中文翻译。
 
 [Stable/Kernel](http://stablekernel.com/blog/)  
 Best Practices, tips, tricks, reusable code.
+
+[Matt Galloway](http://www.galloway.me.uk)  
+Matt Galloway
