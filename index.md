@@ -10,6 +10,9 @@ NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated 
 [Cocoa With Love](http://www.cocoawithlove.com)  
 虽然已经很久没有更新文章了，但里面都是些有内涵的干货。 
 
+[Cocoa is my girlfriend](http://www.cimgf.com/)  
+Cocoa is my girlfriend
+
 [Friday Q&A](http://www.mikeash.com/pyblog/)  
 Friday Q&A  
 
