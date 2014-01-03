@@ -1,14 +1,17 @@
 [objc.io](http://www.objc.io)  
 A periodical about best practices and advanced techniques in Objective-C.  
 
-[raywenderlich](http://www.raywenderlich.com/)  
-Tutorials for iPhone/iOS Developer and Gamers  
-
 [NSHipster](http://nshipster.com)  
 NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly.  
 
+[Cocoaphony](http://robnapier.net/blog/archives)    
+Mac and iPhone, on the brain
+
 [Cocoa With Love](http://www.cocoawithlove.com)  
 虽然已经很久没有更新文章了，但里面都是些有内涵的干货。 
+
+[raywenderlich](http://www.raywenderlich.com/)  
+Tutorials for iPhone/iOS Developer and Gamers  
 
 [Cocoa is my girlfriend](http://www.cimgf.com/)  
 Cocoa is my girlfriend
