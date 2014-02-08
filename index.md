@@ -10,7 +10,7 @@ iOS ninja, former Apple grasshopper.
 [Think and build](http://www.thinkandbuild.it)  
 Some tutorials about **Core Graphic** and **Core Animation**.
 
-[Cocoaphony](http://robnapier.net/blog/archives)    
+[Cocoaphony](http://robnapier.net/archives)    
 Mac and iPhone, on the brain
 
 [Cocoa With Love](http://www.cocoawithlove.com)  
