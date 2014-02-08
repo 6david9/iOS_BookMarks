@@ -4,7 +4,7 @@ A periodical about best practices and advanced techniques in Objective-C.
 [NSHipster](http://nshipster.com)  
 NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly.  
 
-[Volon Bolon](http://volonbolon.net/)
+[Volon Bolon](http://volonbolon.net/)  
 iOS ninja, former Apple grasshopper.
 
 [Think and build](http://www.thinkandbuild.it)  
