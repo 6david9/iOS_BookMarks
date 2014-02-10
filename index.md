@@ -54,3 +54,12 @@ Matt Galloway
 
 [Prateek Gianchandani](http://highaltitudehacks.com/security/)  
 IOS Developer. Security Researcher. Wannabe Mountaineer.
+
+[OneV's Den](http://onevcat.com/)  
+iOS/Mac Developer, Unity3D开发者 技术博客
+
+[kharrison](http://useyourloaf.com/)  
+Kharrison's blog
+
+[Mark Pospesel](http://markpospesel.wordpress.com/)  
+Mark Pospesel's blog
