@@ -65,8 +65,7 @@ Kharrison's blog
 Mark Pospesel's blog
 
 [Ole Begemann](http://oleb.net/blog/)  
-Ole Begemann's blog and his favorite Cocoa Programming [Blogs](http://oleb.net/blog/2013/12/my-favorite-cocoa-programming-blogs/).  
-Him also write blog for [objc.io](http://www.objc.io) website.
+Ole Begemann's blog.
 
 [Stablekernel](http://stablekernel.com/blog/)  
-Stablekernel's blog
+Stablekernel's blog.
