@@ -54,3 +54,5 @@ Matt Galloway
 
 [Prateek Gianchandani](http://highaltitudehacks.com/security/)  
 IOS Developer. Security Researcher. Wannabe Mountaineer.
+
+[What's in my iOS Toolbox?](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html)
